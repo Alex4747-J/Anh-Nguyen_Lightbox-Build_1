@@ -2,7 +2,7 @@
  This is a repo for the assignment of lightbox build for Multi Auth class.
 
 ## Subject
-This is a repo containing the coding for lightbox build of Love & Deepspace character.
+This is a repo containing the coding for lightbox build of Love & Deepspace characters.
 
 ## Installation
 
